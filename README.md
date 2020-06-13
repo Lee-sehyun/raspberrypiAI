@@ -41,9 +41,6 @@
 
 #### 프로젝트 비디오
 
-사용문법: [Title](link)
-적용예: [21900516-이세현-기말영상](https://youtu.be/UH_2YLhgT7U)
-	
-<https://youtu.be/UH_2YLhgT7U>
+link : [21900516-이세현-기말영상](https://youtu.be/UH_2YLhgT7U)
 
 
